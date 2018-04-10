@@ -1,0 +1,14 @@
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\SeleniumTutorial.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\SeleniumTutorial.exe
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\SeleniumTutorial.pdb
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\WebDriver.dll
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\WebDriver.Support.dll
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\WebDriver.xml
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\WebDriver.Support.pdb
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\WebDriver.Support.xml
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.exe
+c:\users\mike\documents\visual studio 2015\Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.pdb
